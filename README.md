@@ -10,5 +10,12 @@
 ## Updates
 - realtime PWM and UART implementations enabled by timer triggered interrupt component.
 - able to read data from function generator and display the signal in the LabVIEW virtual instrument.
+
+## 04-10-2018
+
+## Updates
+- realtime servo control (realized by implementing timer triggered interrupt)
+- smoothen the servo movement by segmenting the angle commands into finer increments or decrements to mitigate vibration.
+
 ## Website
 Visit our website [here](http://www.oparp.com/iot)
