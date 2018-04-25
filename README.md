@@ -17,5 +17,14 @@
 - realtime servo control (realized by implementing timer triggered interrupt)
 - smoothen the servo movement by segmenting the angle commands into finer increments or decrements to mitigate vibration.
 
+## 04-25-2018
+
+## Updates
+- project crowd funding is opening, thanks for your support!
+[here](https://igg.me/at/oparp/emal/18604700)
+- Refinement of the real-time servo control
+- Tunning parameters for accurate forward kinematics
+- Developed program for inverse kinematics calculation, from position to servo angle
+
 ## Website
 Visit our website [here](http://www.oparp.com/iot)
